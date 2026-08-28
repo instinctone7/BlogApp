@@ -2,7 +2,6 @@
 
 A RESTful blog backend built with Spring Boot, featuring JWT-based authentication with email verification, and full CRUD for posts, categories, and tags.
 
-> **Status:** Work in progress. See [Known Issues / TODO](#known-issues--todo) before treating this as production-ready.
 
 ## Tech Stack
 
